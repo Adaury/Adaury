@@ -16,6 +16,22 @@ Servicio de instalación de **cámaras** y **apartamentos con intercomunicador**
 Total = (cámaras × 2,750) + (apartamentos × 2,500)
 ```
 
+## Proyecto: Cutupu, La Vega (Cliente: Mercedes Morales)
+
+Cantidades tomadas de la cotización de materiales #0000276 (18/10/2026):
+
+| Concepto                               | Precio unitario | Cantidad | Subtotal  |
+|----------------------------------------|----------------:|---------:|----------:|
+| Instalación por cámara                 |          $2,750 |        8 |  $22,000  |
+| Instalación por apartamento (intercom) |          $2,500 |        6 |  $15,000  |
+| **Total mano de obra**                 |                 |          | **$37,000** |
+
+```
+(8 × 2,750) + (6 × 2,500) = 22,000 + 15,000 = 37,000
+```
+
+Nota: la cantidad de apartamentos (6) se toma de los 6 pulsadores y los 6 citófonos de la cotización.
+
 ## Ejemplo de cálculo
 
 Para 4 cámaras y 3 apartamentos:
