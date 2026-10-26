@@ -24,10 +24,11 @@ Cantidades tomadas de la cotización de materiales #0000276 (18/10/2026):
 |----------------------------------------|----------------:|---------:|----------:|
 | Instalación por cámara                 |          $2,750 |        8 |  $22,000  |
 | Instalación por apartamento (intercom) |          $2,500 |        6 |  $15,000  |
-| **Total mano de obra**                 |                 |          | **$37,000** |
+| Servicio técnico (cotización #0000276) |                 |        1 |  $35,000  |
+| **Total**                              |                 |          | **$72,000** |
 
 ```
-(8 × 2,750) + (6 × 2,500) = 22,000 + 15,000 = 37,000
+(8 × 2,750) + (6 × 2,500) + 35,000 = 22,000 + 15,000 + 35,000 = 72,000
 ```
 
 Nota: la cantidad de apartamentos (6) se toma de los 6 pulsadores y los 6 citófonos de la cotización.
@@ -42,11 +43,12 @@ Nota: la cantidad de apartamentos (6) se toma de los 6 pulsadores y los 6 citóf
 > |---|---:|---:|---:|
 > | Instalación por cámara | 8 | $2,750 | $22,000 |
 > | Instalación por apartamento con intercomunicador | 6 | $2,500 | $15,000 |
-> | **Total mano de obra** | | | **$37,000** |
+> | Servicio técnico | 1 | $35,000 | $35,000 |
+> | **Total** | | | **$72,000** |
 >
 > **Importante:**
 >
-> - Este presupuesto cubre **únicamente la mano de obra** de instalación. Los equipos y materiales (cámaras, panel de intercom, citófonos, NVR, disco duro, cableado, electroimán, teclado, tokens y accesorios) se adquieren por separado, directamente por usted.
+> - Este presupuesto cubre **la mano de obra de instalación y el servicio técnico** indicado. Los equipos y materiales (cámaras, panel de intercom, citófonos, NVR, disco duro, cableado, electroimán, teclado, tokens y accesorios) se adquieren por separado, directamente por usted.
 > - **Los equipos no tienen garantía** por parte de nuestra empresa. Sin embargo, **la instalación sí cuenta con garantía**.
 > - Si la instalación presenta alguna falla dentro del período de garantía, realizaremos una revisión. Si la falla se origina en nuestro trabajo, la corregiremos sin costo para usted.
 > - Si la revisión determina que la falla corresponde al **equipo**, el cliente deberá cubrir el costo del servicio técnico recibido.
